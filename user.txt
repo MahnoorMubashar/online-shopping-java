@@ -1,0 +1,5 @@
+tooba,123,tooba@gmail.com,mardan
+shumaila,123,shummig@gmail.com,karanchi
+rida,8978,rida@gmail.com,islamabad
+irsa,876776,uyh@gmqil.com,atd
+little,456,abcdef@gmail.com,house#933,sector1/b/1,northkarachi,karachi.
